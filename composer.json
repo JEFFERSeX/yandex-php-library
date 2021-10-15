@@ -1,6 +1,6 @@
 {
     "name": "STEPiKO/yandex-php-library",
-    "description": "Official Yandex PHP library",
+    "description": "Fork Official Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
     "license": "MIT",
